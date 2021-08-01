@@ -1,0 +1,20 @@
+{
+  "@@locale": "ru",
+  "authorization": "Авторизация",
+  "login_with": "Войти с",
+  "expert_card": "Карточка эксперта",
+  "rating": "Рейтинг",
+  "logout": "Выйти",
+  "like": "Мне нравится",
+  "update": "Обновить",
+  "doubt_category": "Неверная тематика",
+  "back": "Назад",
+  "down_vote": "Не продвигать",
+  "up_vote": "Продвигать",
+  "you_are_not_expert": "Вы не эксперт",
+  "show_more": "Показать ещё",
+  "experts": "Эксперты",
+  "posts": "Записи",
+  "posts_rated_all_time": "Записей оценено за всё время",
+  "posts_rated_today": "Записей оценено сегодня"
+}

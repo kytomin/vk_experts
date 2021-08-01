@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "authorization": "Authorization",
+  "login_with": "Login with",
+  "expert_card": "Expert card",
+  "rating": "Rating",
+  "logout": "Logout",
+  "like": "Like",
+  "update": "Update",
+  "doubt_category": "Doubt category",
+  "back": "Back",
+  "down_vote": "Down vote",
+  "up_vote": "Up vote",
+  "you_are_not_expert": "You are not expert",
+  "show_more": "Show more",
+  "experts": "Experts",
+  "posts": "Posts",
+  "posts_rated_all_time": "Posts rated all time",
+  "posts_rated_today": "Posts rated today"
+}
